@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Nok Hang
+
+I'm a 17 year old 1st year Computer Science student @ the University of Warwick with a passion for developing all sorts of unusual and impractical projects.
+
+- 🔭 I’m currently working on [QuantumPython](https://github.com/BlueTot/QuantumPython), [tutorial2](https://github.com/bakerpdgit/tutorial2) and [tutorial3](https://github.com/bakerpdgit/tutorial3)
+- 😄 Pronouns: he/him
+- 📫 How to reach me: Instagram: `lo.nokhang`, [Linkedin](https://www.linkedin.com/in/nok-hang-lo-2695a6282/)
+- ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
 
 <!--
 **BlueTot/BlueTot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
