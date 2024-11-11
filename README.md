@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&show_icons=true)](https://github.com/BlueTot)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BlueTot&theme=tokyonight&show_icons=true)](https://github.com/BlueTot)
