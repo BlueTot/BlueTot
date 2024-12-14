@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nok Hang
 
-I'm a 17 year old 1st year Computer Science student @ the University of Warwick with a passion for developing all sorts of unusual and impractical projects.
+I'm an 18 year old 1st year Computer Science student @ the University of Warwick with a passion for developing all sorts of unusual and impractical projects.
 
 - 🔭 I’m currently working on [QuantumPython](https://github.com/BlueTot/QuantumPython), [tutorial2](https://github.com/bakerpdgit/tutorial2) and [tutorial3](https://github.com/bakerpdgit/tutorial3)
 - 😄 Pronouns: he/him
