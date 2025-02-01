@@ -36,10 +36,14 @@ I'm an 18 year old 1st year Computer Science student @ the University of Warwick
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueTot&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueTot&theme=tokyo-night" alt="Activity Graph"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/><br/>
+</p>
+<p align=center">
+ <img src="https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueTot&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
+</p>
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueTot&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 
