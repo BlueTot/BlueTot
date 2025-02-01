@@ -23,9 +23,14 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&show_icons=true)](https://github.com/BlueTot)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BlueTot&theme=tokyonight&show_icons=true)](https://github.com/BlueTot)
+<!-- Centering content -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueTot&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueTot&theme=tokyo-night" alt="Activity Graph"/>
+</p>
+
 
 ### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bluetotkc?theme=dark&font=Rajdhani)
