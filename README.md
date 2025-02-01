@@ -10,10 +10,18 @@
 </p>
 
 I'm an 18 year old 1st year Computer Science student @ the University of Warwick with a passion for developing all sorts of unusual and impractical projects.
- 
-- 🔭 I’m currently working on [tutorial2](https://github.com/bakerpdgit/tutorial2) and [tutorial3](https://github.com/bakerpdgit/tutorial3)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
+-⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
+
+#### I'm currently working on:
+- [Quantum Simulator + Programming Language](https://github.com/BlueTot/quantum-python)
+- [Python Sponge Tutorials - A Level Tutorials](https://github.com/bakerpdgit/tutorial2)
+- [Python Sponge Tutorials - OOP Tutorials](https://github.com/bakerpdgit/tutorial3)
+
+### Some cool past projects:
+- [Advent of Code 2024](https://github.com/BlueTot/aoc-2024)
+- [Python Chess Engine rated 2096](https://github.com/BlueTot/bluebot-chess-engine)
+- [Simple Compiler](https://github.com/BlueTot/python-compiler)
 
 ### Languages and Tools
 <p style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
@@ -31,19 +39,14 @@ I'm an 18 year old 1st year Computer Science student @ the University of Warwick
 </p>
 
 ### Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/bluetotkc?theme=dark&font=Rajdhani)
+<p align="center">
+  <img alt="leetcode" src="https://leetcard.jacoblin.cool/bluetotkc?theme=dark&font=Rajdhani" />
+</p>
 
 ### Stats
-
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/><br/>
-</p>
-<p align=center">
- <img src="https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueTot&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
-</p>
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueTot&theme=tokyo-night" alt="Activity Graph"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=BlueTot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/> -->
+ <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BlueTot&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
 
