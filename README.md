@@ -10,10 +10,10 @@
 </p>
 
 I'm an 18 year old 1st year Computer Science student @ the University of Warwick with a passion for developing all sorts of unusual and impractical projects.
-- 😄 Pronouns: he/him
--⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
+- 😄 Pronouns: he/him </br>
+- ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
 
-#### I'm currently working on:
+### I'm currently working on:
 - [Quantum Simulator + Programming Language](https://github.com/BlueTot/quantum-python)
 - [Python Sponge Tutorials - A Level Tutorials](https://github.com/bakerpdgit/tutorial2)
 - [Python Sponge Tutorials - OOP Tutorials](https://github.com/bakerpdgit/tutorial3)
@@ -22,6 +22,10 @@ I'm an 18 year old 1st year Computer Science student @ the University of Warwick
 - [Advent of Code 2024](https://github.com/BlueTot/aoc-2024)
 - [Python Chess Engine rated 2096](https://github.com/BlueTot/bluebot-chess-engine)
 - [Simple Compiler](https://github.com/BlueTot/python-compiler)
+
+### Some recent achievements:
+- **3rd Place** at UKIEPC 2024 Warwick Leaderboard, **37th** nationally
+- **1st Place** at UWCS Programming Competition 2025
 
 ### Languages and Tools
 <p style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
