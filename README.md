@@ -14,7 +14,7 @@ I'm an 18 year old 1st year Computer Science student @ the University of Warwick
 - ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
 
 ### I'm currently working on:
-- [Quantum Simulator + Programming Language](https://github.com/BlueTot/quantum-python)
+- _Cool new project in the making - will be made public soon_
 - [Python Sponge Tutorials - A Level Tutorials](https://github.com/bakerpdgit/tutorial2)
 - [Python Sponge Tutorials - OOP Tutorials](https://github.com/bakerpdgit/tutorial3)
 
