@@ -15,14 +15,20 @@
 </p>
 </br>
 
-I'm an 18 year old 1st year Computer Science student @ Warwick with a passion for developing my own tools and unusual projects. You may know me by <i>BlueTot</i> or what people used to call me, <i>Eurasian Blue Tit</i>
+I'm an 18 year old 1st Computer Science student @ Warwick with a passion for developing my own tools and unusual projects. You may know me by <i>BlueTot</i> or what people used to call me, <i>Eurasian Blue Tit</i>
 - 😄 Pronouns: he/him </br>
 - ⚡ <i>I use neovim btw</i>
 - ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
 
+### A cool quote
+
+_"An idiot admires complexity, a genius admires simplicity"_ - Terry A. Davis
+
 ### Some of the biggest questions I have:
 - What is a job?
 - What is an IDE?
+
+
 
 ### I'm currently working on:
 - My own github pages website! (not yet open)
