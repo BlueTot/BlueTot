@@ -19,7 +19,7 @@ I'm an 18 year old 1st Computer Science student @ Warwick with a passion for dev
 
 ### Fun Facts
 - ⚡ _I use neovim btw_ - it is more than an editor: it is a lifestyle.
-- ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
+- ⚡ I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
 - ⚡ __FORK BOMB FTW__ - team `:(){:|:&};:__` placed __3rd__ at UKIEPC 2024 Warwick Leaderboard, __37th__ nationally
 - ⚡ __LIBRARY CRAFT FTW__ - team `LibraryCraft` placed __1st__ at UWCS Programming Competition 2025
 
