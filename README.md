@@ -16,34 +16,19 @@
 </br>
 
 I'm an 18 year old 1st Computer Science student @ Warwick with a passion for developing my own tools and unusual projects. You may know me by <i>BlueTot</i> or what people used to call me, <i>Eurasian Blue Tit</i>
-- 😄 Pronouns: he/him </br>
-- ⚡ <i>I use neovim btw</i>
+
+### Fun Facts
+- ⚡ _I use neovim btw_ - it is more than an editor: it is a lifestyle.
 - ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
-
-### A cool quote
-
-_"An idiot admires complexity, a genius admires simplicity"_ - Terry A. Davis
+- ⚡ __FORK BOMB FTW__ - team `:(){:|:&};:__` placed __3rd__ at UKIEPC 2024 Warwick Leaderboard, __37th__ nationally
+- ⚡ __LIBRARY CRAFT FTW__ - team `LibraryCraft` placed __1st__ at UWCS Programming Competition 2025
 
 ### Some of the biggest questions I have:
 - What is a job?
 - What is an IDE?
 
-
-
-### I'm currently working on:
-- My own github pages website! (not yet open)
-- [CS133 Quiz Web Application](https://github.com/BlueTot/my-quiz-app)
-- [Python Sponge Tutorials - A Level Tutorials](https://github.com/bakerpdgit/tutorial2)
-- [Python Sponge Tutorials - OOP Tutorials](https://github.com/bakerpdgit/tutorial3)
-
-### Some cool past projects:
-- [Advent of Code 2024](https://github.com/BlueTot/aoc-2024)
-- [Python Chess Engine rated 2096](https://github.com/BlueTot/bluebot-chess-engine)
-- [Simple Compiler](https://github.com/BlueTot/python-compiler)
-
-### Some recent achievements:
-- **3rd Place** at UKIEPC 2024 Warwick Leaderboard, **37th** nationally
-- **1st Place** at UWCS Programming Competition 2025
+### If you need help with revision
+- I have some _work in progress_ revision notes at <a href="https://bluetot.github.io/notes">bluetot.github.io/notes</a>
 
 ### Languages and Tools
 <p style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
