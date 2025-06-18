@@ -9,12 +9,23 @@
  </a>
 </p>
 
-I'm an 18 year old 1st year Computer Science student @ the University of Warwick with a passion for developing all sorts of unusual and impractical projects.
+<p align="center">
+<img alt="profile picture" src="https://github.com/user-attachments/assets/d90d0dbe-1486-4c70-adfc-dbb1a277bf66"/>
+<p align="center"><i>Eurasian Blue Tit</i></p>
+</p>
+</br>
+
+I'm an 18 year old 1st year Computer Science student @ Warwick with a passion for developing my own tools and unusual projects. You may know me by <i>BlueTot</i> or what people used to call me, <i>Eurasian Blue Tit</i>
 - 😄 Pronouns: he/him </br>
+- ⚡ <i>I use neovim btw</i>
 - ⚡ Fun fact: I got banned on chess.com 12 times whilst working on [BlueBotChessEngine](https://github.com/BlueTot/BlueBotChessEngine)
 
+### Some of the biggest questions I have:
+- What is a job?
+- What is an IDE?
+
 ### I'm currently working on:
-- _Cool new project in the making - will be made public soon_
+- My own github pages website! (not yet open)
 - [CS133 Quiz Web Application](https://github.com/BlueTot/my-quiz-app)
 - [Python Sponge Tutorials - A Level Tutorials](https://github.com/bakerpdgit/tutorial2)
 - [Python Sponge Tutorials - OOP Tutorials](https://github.com/bakerpdgit/tutorial3)
