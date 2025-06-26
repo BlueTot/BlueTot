@@ -19,12 +19,12 @@ I'm an 18-year-old 1st Computer Science student @ Warwick with a passion for doi
 
 ### What am I?
 - ✨ A contributor of [pythonsponge.com](https://pythonsponge.com), an A-Level CS educational website.
-- ✨ A member of the authoring & reviewing committee of [PCTC](pctc.cuttle.org)
+- ✨ A member of the authoring & reviewing committee of [PCTC](https://pctc.cuttle.org)
 - 🌱 A new volunteer at [Free Software Foundation's SysOps Team](https://libreplanet.org/wiki/Group:FSF:Tech_Team_Volunteers)
 - 🧊 Leader of team `:(){:|:&};:__` which placed __3rd__ at UKIEPC 2024 on Warwick Leaderboard, __37th__ nationally
 - 🧊 Leader of team `LibraryCraft` which placed __1st__ at UWCS Programming Competition 2025
 
-### If you need help with revision
+### Revising after Exams
 - I have some revision notes at <a href="https://bluetot.github.io/notes">bluetot.github.io/notes</a>, please do not trust fully as they might not be 100% accurate
 
 ### Leetcode
