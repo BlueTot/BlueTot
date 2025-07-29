@@ -9,23 +9,21 @@
  </a>
 </p>
 
-<p align="center">
-<img alt="profile picture" src="https://github.com/user-attachments/assets/d90d0dbe-1486-4c70-adfc-dbb1a277bf66"/>
-<p align="center"><i>Eurasian Blue Tit</i></p>
-</p>
 </br>
 
-I'm an 18-year-old 1st Computer Science student @ Warwick with a passion for doing random things. You may know me by <i>BlueTot</i> or what people used to call me, <i>Eurasian Blue Tit</i>
+I'm an 18-year-old 1st year Computer Science student @ Warwick interested in system operations, compilers, and using the terminal. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
 
-### What am I?
+### About me
+- Originally from Hong Kong, now from Cambridge.
+- My Motto: `never resign`
+- I only need two apps to work: a _browser_ and a _terminal_. I work entirely over SSH, so __no__ PC needed -- allows me to work _anywhere_, even when going outside. 
+
+### Experience
 - ✨ A contributor of [pythonsponge.com](https://pythonsponge.com), an A-Level CS educational website.
 - ✨ A member of the authoring & reviewing committee of [PCTC](https://pctc.cuttle.org)
-- 🌱 A new volunteer at [Free Software Foundation's SysOps Team](https://libreplanet.org/wiki/Group:FSF:Tech_Team_Volunteers)
-- 🧊 Leader of team `:(){:|:&};:__` which placed __3rd__ at UKIEPC 2024 on Warwick Leaderboard, __37th__ nationally
-- 🧊 Leader of team `LibraryCraft` which placed __1st__ at UWCS Programming Competition 2025
-
-### Revising after Exams
-- I have some revision notes at <a href="https://bluetot.github.io/notes">bluetot.github.io/notes</a>, please do not trust fully as they might not be 100% accurate
+- 🌱 A volunteer at [Free Software Foundation's SysOps Team](https://libreplanet.org/wiki/Group:FSF:Tech_Team_Volunteers)
+- 🧊 Winner of UWCS Programming Competition 2025, and placed __3rd__ at Warwick UKIEPC 2024 (_37th_ nationally)
+- 🏅 Awardee of _exceptional achievement_ prize in 1st Year CS @ Warwick
 
 ### Leetcode
 <p align="center">
