@@ -29,3 +29,8 @@ I'm an 18-year-old 1st year Computer Science student @ Warwick interested in sys
 <p align="center">
   <img alt="leetcode" src="https://leetcard.jacoblin.cool/bluetotkc?theme=dark&font=Rajdhani" />
 </p>
+
+### Codeforces
+<p align="center">
+  <img alt="codeforces" src="https://codeforces-readme-stats.vercel.app/api/card?username=bluetotkc&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/bluetotkc" />
+</p>
