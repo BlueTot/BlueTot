@@ -15,7 +15,7 @@
 
 </br>
 
-I'm an 18-year-old 1st year Computer Science student @ Warwick interested in system operations, compilers, and using the terminal. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
+I'm an 18-year-old (incoming) 2nd year Computer Science student @ Warwick interested in system operations, compilers, and using the terminal. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
 
 ### About me
 - Originally from Hong Kong, now from Cambridge.
