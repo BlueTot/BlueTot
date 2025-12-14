@@ -15,7 +15,7 @@
 
 </br>
 
-I'm an 18-year-old 2nd year Computer Science student @ Warwick interested in system operations, compilers, and using the terminal. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
+I'm a 19-year-old 2nd year Computer Science student @ Warwick interested in system operations, compilers, and using the terminal. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
 
 ### About me
 - Originally from Hong Kong, now from Cambridge.
@@ -23,12 +23,13 @@ I'm an 18-year-old 2nd year Computer Science student @ Warwick interested in sys
 - I only need two apps to work: a _browser_ and a _terminal_. I work entirely over SSH, so __no__ PC needed -- allows me to work _anywhere_, even when going outside. 
 
 ### Experience
-- ✨ A contributor of [pythonsponge.com](https://pythonsponge.com), an A-Level CS educational website.
-- ✨ A member of the authoring & reviewing committee of [PCTC](https://pctc.cuttle.org)
+- ⭐ Team captain of **Team CodeSoc** at CIUK Cluster Challenge 2025.
+- 🏅 2nd highest mark in 1st Year CS @ Warwick
 - 🌱 A volunteer at [Free Software Foundation's SysOps Team](https://libreplanet.org/wiki/Group:FSF:Tech_Team_Volunteers)
 - 🧊 Winner of UWCS Programming Competition 2025, and placed __3rd__ at Warwick UKIEPC 2024 (_37th_ nationally)
-- 🏅 Awardee of _exceptional achievement_ prize in 1st Year CS @ Warwick
-
+- ✨ A member of the authoring & reviewing committee of [PCTC](https://pctc.cuttle.org)
+- ✨ A contributor of [pythonsponge.com](https://pythonsponge.com), an A-Level CS educational website.
+  
 ### Leetcode
 <p align="center">
   <img alt="leetcode" src="https://leetcard.jacoblin.cool/bluetotkc?theme=dark&font=Rajdhani" />
