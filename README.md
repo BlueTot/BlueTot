@@ -15,14 +15,10 @@
 
 </br>
 
-I'm a 19-year-old 2nd year Computer Science student @ Warwick interested in system operations, compilers, and using the terminal. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
-
-### About me
-- Originally from Hong Kong, now from Cambridge.
-- My Motto: `never resign`
-- I only need two apps to work: a _browser_ and a _terminal_. I work entirely over SSH, so __no__ PC needed -- allows me to work _anywhere_, even when going outside. 
+19-year-old 2nd year Computer Science student @ Warwick, originally from Hong Kong. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
 
 ### Experience
+
 - ⭐ Team captain of **Team CodeSoc** at CIUK Cluster Challenge 2025.
 - 🏅 2nd highest mark in 1st Year CS @ Warwick
 - 🌱 A volunteer at [Free Software Foundation's SysOps Team](https://libreplanet.org/wiki/Group:FSF:Tech_Team_Volunteers)
@@ -33,9 +29,4 @@ I'm a 19-year-old 2nd year Computer Science student @ Warwick interested in syst
 ### Leetcode
 <p align="center">
   <img alt="leetcode" src="https://leetcard.jacoblin.cool/bluetotkc?theme=dark&font=Rajdhani" />
-</p>
-
-### Codeforces
-<p align="center">
-  <img alt="codeforces" src="https://codeforces-readme-stats.vercel.app/api/card?username=bluetotkc&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/bluetotkc" />
 </p>
