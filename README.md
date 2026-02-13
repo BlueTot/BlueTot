@@ -15,14 +15,18 @@
 
 </br>
 
-19-year-old 2nd year Computer Science student @ Warwick, originally from Hong Kong. Aspiring software engineer, competitive programmer, and LeetCode warrior. 
+19-year-old 2nd year Computer Science student @ Warwick, originally from Hong Kong. Aspiring software engineer, competitive programmer, and LeetCode warrior.
+
+### Achievements
+- 🏅 2nd highest mark in 1st Year CS @ Warwick
+- 🧊 Winner of UWCS Programming Competition 2025, and placed __3rd__ at Warwick UKIEPC 2024 (_37th_ nationally)
+- ⭐ Team captain of **Team CodeSoc** at CIUK Cluster Challenge 2025.
 
 ### Experience
 
-- ⭐ Team captain of **Team CodeSoc** at CIUK Cluster Challenge 2025.
-- 🏅 2nd highest mark in 1st Year CS @ Warwick
+- 🌱 Incoming SWE Intern @ GE Vernova - 12 months (09/26 - 09/27)
+- 🌱 Incoming SWE Intern @ Balyasny Asset Management (BAM) - 2 months (06/26 - 09/26)
 - 🌱 A volunteer at [Free Software Foundation's SysOps Team](https://libreplanet.org/wiki/Group:FSF:Tech_Team_Volunteers)
-- 🧊 Winner of UWCS Programming Competition 2025, and placed __3rd__ at Warwick UKIEPC 2024 (_37th_ nationally)
 - ✨ A member of the authoring & reviewing committee of [PCTC](https://pctc.cuttle.org)
 - ✨ A contributor of [pythonsponge.com](https://pythonsponge.com), an A-Level CS educational website.
   
