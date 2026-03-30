@@ -4,9 +4,6 @@
  <a href="https://www.linkedin.com/in/nok-hang-lo-2695a6282/">
   <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
  </a>
- <a href="https://www.instagram.com/lo.nokhang">
-  <img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
- </a>
  <a href="https://bluetot.github.io">
   <img alt="website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge">
  </a>
